@@ -2,10 +2,6 @@
 - 👀 I’m a Full-Stack Web/Mobile Developer
 - 🌱 I’m currently learning IoT softwares and analytics
 - Hi 👋 My name is Fatima Zahra ZAGLAMI
-=====================================
-
-Full stack developer
---------------------
 
 *   🌍  I'm based in Rabat
 *   ✉️  You can contact me at [fatimazahra.zaglami@um5r.ac.ma](mailto:fatimazahra.zaglami@um5r.ac.ma)### Skills<p align="left">
